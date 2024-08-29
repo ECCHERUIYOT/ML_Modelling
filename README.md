@@ -10,6 +10,7 @@ The dataset contains information of various users on the the type of calls they 
 ### Exploratory Data Analysis
 
 1. Distribution of churn
+
 ![image-1](Images/image-1.png)
 
 2. Number of customers on international plan
@@ -34,7 +35,7 @@ We picked three classification models that we would evaluate and pick the most a
 * Random Forest
 
 Confusion Matrices for the three models
-![Image-7](images/image-7.png)
+![image-7](Images/image-7.png)
 
 ### Evaluation
 We trained the data on a train set and tested the data on a test set and evaluated the models topick the most accurate. We used the following metrics;
