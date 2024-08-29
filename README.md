@@ -8,6 +8,7 @@ The dataset is from SyrialTel,a commmunication company. The data set is found in
 The dataset contains information of various users on the the type of calls they made,the duration of the calls,the number of calls,the cost of the calls and whether the customer churned or not.
 
 ### Exploratory Data Analysis
+
 1. Distribution of churn
 ![alt text](image-1.png)
 
