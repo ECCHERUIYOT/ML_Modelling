@@ -10,22 +10,22 @@ The dataset contains information of various users on the the type of calls they 
 ### Exploratory Data Analysis
 
 1. Distribution of churn
-![alt text](image-1.png)
+![Image-1](images/image-1.png)
 
 2. Number of customers on international plan
-![alt text](image-2.png)
+![Image-2](images/image-2.png)
 
 3. Total Day Minutes by churn
-![alt text](image-3.png)
+![Image-3](images/image-3.png)
 
 4.Total Night Minutes by churn 
-![alt text](image-4.png)
+![Image-4](images/image-4.png)
 
 5. Customer service calls by churn
-![alt text](image-5.png)
+![Image-5](images/image-5.png)
 
 6.Correlation between total day minutes,total evening minutes,total night minutes,total international minutes,customer service calls and churn
-![alt text](image-6.png)
+![Image-6](images/image-6.png)
 
 ### Modeling
 We picked three classification models that we would evaluate and pick the most accurate to be able to predict possibility of a customer churn.
@@ -34,7 +34,7 @@ We picked three classification models that we would evaluate and pick the most a
 * Random Forest
 
 Confusion Matrices for the three models
-![alt text](image-7.png)
+![Image-7](images/image-7.png)
 
 ### Evaluation
 We trained the data on a train set and tested the data on a test set and evaluated the models topick the most accurate. We used the following metrics;
