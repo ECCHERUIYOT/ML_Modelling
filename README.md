@@ -10,22 +10,22 @@ The dataset contains information of various users on the the type of calls they 
 ### Exploratory Data Analysis
 
 1. Distribution of churn
-![Image-1](images/image-1.png)
+![image-1](Images/image-1.png)
 
 2. Number of customers on international plan
-![Image-2](images/image-2.png)
+![image-2](Images/image-2.png)
 
 3. Total Day Minutes by churn
-![Image-3](images/image-3.png)
+![image-3](Images/image-3.png)
 
 4.Total Night Minutes by churn 
-![Image-4](images/image-4.png)
+![image-4](Images/image-4.png)
 
 5. Customer service calls by churn
-![Image-5](images/image-5.png)
+![image-5](Images/image-5.png)
 
 6.Correlation between total day minutes,total evening minutes,total night minutes,total international minutes,customer service calls and churn
-![Image-6](images/image-6.png)
+![image-6](Images/image-6.png)
 
 ### Modeling
 We picked three classification models that we would evaluate and pick the most accurate to be able to predict possibility of a customer churn.
